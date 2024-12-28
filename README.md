@@ -62,6 +62,7 @@ Sorting List of 10000 elements
 ---
 
 ## 📁 **Project Structure**
+- **`Node.java`**: Structure of a node in doubly linked list.
 - **`LinkedList.java`**: Core doubly linked list implementation.
 - **`SortingAlgorithms.java`**: All sorting algorithms with optimized implementations.
 - **`Main.java`**: Entry point for performance benchmarking and testing.
